@@ -1,5 +1,5 @@
 ### Herrow ✨👋✨
-🔭 I’m currently working on Tribal Finance Protocol
+🔭 I’m currently building TheOCT on Quantum Rift
 
 <!-- ![0xj4r's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xj4r&show_icons=true&theme=dark&count_private=true&include_all_commits=true) -->
 <!-- **0xj4r/0xj4r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
